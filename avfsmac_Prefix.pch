@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'avfsmac' target in the 'avfsmac' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
